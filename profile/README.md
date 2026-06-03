@@ -1,35 +1,20 @@
 # Digitem Studios
 
-Digitem Studios es una iniciativa enfocada en el desarrollo de software y la optimización tecnológica para el comercio de proximidad. Desarrollamos soluciones técnicas que conectan plataformas digitales con interacciones en el mundo físico para mejorar la gestión de operaciones, la captación de clientes y la eficiencia de micronegocios.
+Digitem Studios es una iniciativa dedicada al desarrollo de páginas web funcionales y a la digitalización básica de pequeños y medianos comercios locales. El objetivo principal es ayudar a los negocios de proximidad que no cuentan con un sitio web o que tienen una presencia digital desactualizada a disponer de una plataforma limpia, rápida y operativa en internet.
 
 ---
 
-## Áreas de Desarrollo
+## Objetivos Principales
 
-| Especialidad | Componentes Técnicos | Impacto Operativo |
-| :--- | :--- | :--- |
-| **Presencia y Posicionamiento** | Sitios web optimizados y auditoría de SEO local | Incremento de la visibilidad en Google Maps y directorios |
-| **Automatización de Procesos** | Motores de reservas y flujos automatizados de mensajería | Reducción de la carga administrativa interna del local |
-| **Sistemas Híbridos** | Integración de hardware mediante tags NFC y códigos QR | Agilización del punto de venta y captación de reseñas |
-
----
-
-## Criterios Técnicos y Metodología
-
-> [!IMPORTANT]
-> El flujo de trabajo se rige estrictamente bajo principios de escalabilidad, carga asíncrona y arquitecturas descentralizadas.
-
-* **Arquitecturas Estáticas:** Uso de herramientas de renderizado estático para garantizar una carga instantánea en dispositivos móviles, eliminando la dependencia de servidores pesados o mantenimiento continuo de plugins.
-* **Desarrollo Modular:** Construcción de librerías de componentes reutilizables mediante plantillas base privadas, optimizando el tiempo de entrega llave en mano.
-* **Metodología Iterativa:** Implementación de soluciones mínimas viables en entornos reales de producción para adaptar el software basándonos en el uso de clientes reales.
+* **Desarrollo de páginas web esenciales:** Creación de sitios web sencillos y directos que incluyan la información crítica del negocio (servicios, tarifas, contacto y horarios) con un rendimiento optimizado para dispositivos móviles.
+* **Visibilidad local:** Mejorar la presencia de los comercios en motores de búsqueda y mapas para facilitar que los clientes de la zona los encuentren fácilmente.
+* **Gestión sin complicaciones:** Ofrecer un servicio básico de actualización y mantenimiento para que los propietarios no tengan que preocuparse por los aspectos técnicos de la web.
 
 ---
 
 ## Equipo Fundador
 
 * **Marc Martí Torralba**
-    * *Perfil:* Estudiante de Ingeniería Informática y Telecomunicaciones
+    * Estudiante de Ingeniería Informática y Telecomunicaciones
 * **Edgar Angulo Barragán**
-    * *Perfil:* Estudiante de Ingeniería Informática y Telecomunicaciones
-
----
+    * Estudiante de Ingeniería Informática y Telecomunicaciones
