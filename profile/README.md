@@ -1,24 +1,40 @@
 # Digitem
 
-**Webs y digitalización para negocios locales.**
+**Hacemos que tu negocio funcione mejor.**
 
-Digitem es una agencia de ingeniería de software centrada en la digitalización de pequeños y medianos comercios de proximidad: talleres, peluquerías, clínicas, academias, restaurantes y negocios similares que no tienen web, o cuya web actual es lenta, obsoleta o no funciona bien en el móvil.
+Digitem es un equipo de ingeniería que primero entiende cómo funciona un negocio — talleres,
+peluquerías, clínicas, academias, restaurantes y comercios de proximidad similares — y después
+construye la tecnología que necesita: a veces es una web, a veces un sistema de reservas, un
+asistente que responde por ti o una automatización que nadie ve.
 
-No trabajamos con plantillas ni constructores genéricos: cada proyecto se construye a medida, con criterio técnico real, pensado para convertir visitas en clientes desde el primer día.
+No somos una agencia de páginas web. Nada de esto se arregla "con una web": se arregla
+entendiendo cómo trabaja tu negocio y quitándote ese trabajo de encima. A eso nos dedicamos.
 
 ---
 
-## Qué ofrecemos
+## Qué resolvemos
 
-* **Webs a medida, por niveles.** Desde landings de una página con SEO local hasta plataformas multipágina con reservas de citas, cartas dinámicas o tienda online con pasarela de pago — según lo que el negocio necesite, sin pagar de más por lo que no usa.
-* **Digitalización sin fricción.** Automatización de procesos manuales (reservas, pedidos, gestión de citas) para que el propietario no tenga que preocuparse de la parte técnica.
-* **Visibilidad local.** Rendimiento optimizado, SEO local y presencia coherente en buscadores y mapas para que los clientes de la zona encuentren el negocio.
+Cada negocio pierde tiempo y clientes en un sitio distinto. Estas son las cuatro áreas donde
+más se recupera:
+
+* **Que te encuentren.** Buena imagen, información clara y un botón para llamar o reservar —
+  web, Google Maps, reseñas, SEO local.
+* **Que tu negocio responda, incluso cerrado.** Las dudas de siempre se responden solas y cada
+  consulta acaba en una cita o un pedido, aunque llegue un domingo a medianoche — asistentes
+  con IA, WhatsApp, teléfono.
+* **Que trabajes menos.** Reservas, recordatorios y facturas que se generan solas — las tareas
+  repetitivas dejan de depender de ti.
+* **Que tus clientes vuelvan.** Reseñas, recordatorios y seguimiento automatizado — vender a
+  quien ya te conoce es lo más rentable que hay.
+
+Cada proyecto se construye a medida, con criterio técnico real — sin plantillas ni
+constructores genéricos.
 
 ---
 
 ## Demos en vivo
 
-Tres ejemplos reales de nuestro trabajo, uno por cada nivel de servicio:
+Tres ejemplos reales de nuestro trabajo:
 
 | Demo | Negocio (ficticio) | Enfoque |
 |---|---|---|
@@ -30,6 +46,6 @@ Tres ejemplos reales de nuestro trabajo, uno por cada nivel de servicio:
 
 ## Contacto
 
-¿Tienes un negocio y quieres una web que realmente funcione?
+¿Tienes un negocio y algo te quita tiempo que no debería?
 
 📍 [digitemtech.com](https://digitemtech.com) · ✉️ [info@digitemtech.com](mailto:info@digitemtech.com)
