@@ -1,51 +1,54 @@
+<div align="center">
+
 # Digitem
 
-**Hacemos que tu negocio funcione mejor.**
+### Tecnología útil para negocios reales
 
-Digitem es un equipo de ingeniería que primero entiende cómo funciona un negocio — talleres,
-peluquerías, clínicas, academias, restaurantes y comercios de proximidad similares — y después
-construye la tecnología que necesita: a veces es una web, a veces un sistema de reservas, un
-asistente que responde por ti o una automatización que nadie ve.
+Diseñamos webs, sistemas de reservas y automatizaciones que ayudan a pequeños negocios a conseguir más clientes y perder menos tiempo en tareas repetitivas.
 
-No somos una agencia de páginas web. Nada de esto se arregla "con una web": se arregla
-entendiendo cómo trabaja tu negocio y quitándote ese trabajo de encima. A eso nos dedicamos.
+[![Web](https://img.shields.io/badge/Web-digitemtech.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://digitemtech.com)
+[![Contacto](https://img.shields.io/badge/Contacto-info%40digitemtech.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@digitemtech.com)
 
----
-
-## Qué resolvemos
-
-Cada negocio pierde tiempo y clientes en un sitio distinto. Estas son las cuatro áreas donde
-más se recupera:
-
-* **Que te encuentren.** Buena imagen, información clara y un botón para llamar o reservar —
-  web, Google Maps, reseñas, SEO local.
-* **Que tu negocio responda, incluso cerrado.** Las dudas de siempre se responden solas y cada
-  consulta acaba en una cita o un pedido, aunque llegue un domingo a medianoche — asistentes
-  con IA, WhatsApp, teléfono.
-* **Que trabajes menos.** Reservas, recordatorios y facturas que se generan solas — las tareas
-  repetitivas dejan de depender de ti.
-* **Que tus clientes vuelvan.** Reseñas, recordatorios y seguimiento automatizado — vender a
-  quien ya te conoce es lo más rentable que hay.
-
-Cada proyecto se construye a medida, con criterio técnico real — sin plantillas ni
-constructores genéricos.
+</div>
 
 ---
 
-## Demos en vivo
+## Qué hacemos
 
-Tres ejemplos reales de nuestro trabajo:
+| Área | Qué resolvemos |
+|---|---|
+| **Presencia digital** | Webs rápidas, claras y preparadas para SEO local, contacto y conversión. |
+| **Reservas y atención** | Sistemas de citas, formularios y asistentes que responden incluso cuando el negocio está cerrado. |
+| **Automatización** | Recordatorios, seguimiento, gestión de datos y procesos repetitivos que dejan de hacerse a mano. |
+| **Fidelización** | Herramientas para recuperar clientes, solicitar reseñas y mantener una comunicación constante. |
 
-| Demo | Negocio (ficticio) | Enfoque |
+No partimos de una solución cerrada. Primero entendemos cómo funciona el negocio y después construimos la tecnología que realmente necesita.
+
+---
+
+## Demos
+
+| Proyecto | Descripción | Ver demo |
 |---|---|---|
-| [demo-sencilla.digitemtech.com](https://demo-sencilla.digitemtech.com) | Electricitat Soler | Landing de una página, SEO local, contacto y WhatsApp siempre visibles |
-| [demo-reservas.digitemtech.com](https://demo-reservas.digitemtech.com) | Aura — Estética & Peluquería | Web multipágina con reserva de cita online en 5 pasos |
-| [demo-restaurante.digitemtech.com](https://demo-restaurante.digitemtech.com) | La Vinya — Cuina Mediterrània | Carta QR interactiva y reserva de mesa, pensada para cargar al instante desde el móvil |
+| **Electricitat Soler** | Landing de una página con SEO local y contacto directo. | [Abrir](https://demo-sencilla.digitemtech.com) |
+| **Aura — Estética & Peluquería** | Web multipágina con reserva de cita online. | [Abrir](https://demo-reservas.digitemtech.com) |
+| **La Vinya — Cuina Mediterrània** | Carta QR interactiva y reserva de mesa optimizada para móvil. | [Abrir](https://demo-restaurante.digitemtech.com) |
 
 ---
 
-## Contacto
+## Nuestra forma de trabajar
 
-¿Tienes un negocio y algo te quita tiempo que no debería?
+1. Analizamos el negocio y detectamos dónde se pierde tiempo o clientes.
+2. Proponemos una solución concreta, sin añadir complejidad innecesaria.
+3. Diseñamos, desarrollamos e integramos el sistema.
+4. Medimos el resultado y mejoramos lo que aporte valor.
 
-📍 [digitemtech.com](https://digitemtech.com) · ✉️ [info@digitemtech.com](mailto:info@digitemtech.com)
+---
+
+<div align="center">
+
+**¿Hay alguna tarea en tu negocio que no debería seguir haciéndose a mano?**
+
+[digitemtech.com](https://digitemtech.com) · [info@digitemtech.com](mailto:info@digitemtech.com)
+
+</div>
