@@ -2,10 +2,9 @@
 
 # Digitem
 
-### Del local a la empresa. Encontramos lo que frena y lo quitamos.
+### Encontramos lo que frena un negocio y construimos la tecnología para quitarlo.
 
-Da igual si es un comercio de proximidad o una operación digital que se ha quedado corta.  
-Empezamos por el problema del negocio y construimos lo que hace falta.
+Trabajamos desde problemas reales de operativa, captación y crecimiento. La web, la automatización, los datos o la IA son herramientas; el objetivo es que el negocio funcione mejor.
 
 [![Web Oficial](https://img.shields.io/badge/Web-digitemtech.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://digitemtech.com)
 [![Contacto](https://img.shields.io/badge/Contacto-info%40digitemtech.com-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@digitemtech.com)
@@ -14,51 +13,29 @@ Empezamos por el problema del negocio y construimos lo que hace falta.
 
 ---
 
-## 🎯 Dónde actuamos
+## Qué resolvemos
 
-Resolvemos los puntos donde los negocios pierden tiempo, margen o clientes:
+- **Captación y presencia digital:** webs y experiencias orientadas a conversión, SEO local y contacto directo.
+- **Reservas y atención:** sistemas que reducen llamadas repetitivas, tareas manuales y pérdidas de oportunidades.
+- **Procesos y automatización:** herramientas a medida para eliminar trabajo operativo innecesario.
+- **Datos y analítica:** medición, reconciliación y recuperación de ecosistemas digitales que han crecido desordenados.
+- **Software a medida:** cuando el cuello de botella no se resuelve con una herramienta estándar.
 
-| Área | Qué resolvemos |
-| :--- | :--- |
-| **Atención y Comunicación** | Respuestas automáticas a WhatsApp y correo para preguntas repetitivas, con escalado al equipo. |
-| **Reservas y Citas** | Sistemas de agenda autónoma 24/7 que evitan llamadas continuas y reducen *no-shows*. |
-| **Visibilidad y Captación** | Webs optimizadas para SEO local, conversión y contacto directo sin intermediarios. |
-| **Operativa y Procesos** | Automatización de tareas repetitivas, gestión de datos, facturación y comandas QR. |
-| **Recuperación de Sistemas** | Auditoría y reordenación de infraestructura digital, analítica GA4 y corrección de cuellos de botella. |
+## Demos
 
-> **Nada de esto se arregla con una web genérica.** Se arregla entendiendo la operativa y construyendo —o recuperando— el sistema que el negocio necesita.
-
----
-
-## 🚀 Demos Interactivas
-
-Demostraciones de producto en vivo con flujos reales:
-
-| Proyecto Demo | Caso de Uso | Enlace |
+| Demo | Caso de uso | Enlace |
 | :--- | :--- | :---: |
-| **Electricitat Soler** | Landing técnica con SEO local y captación directa de presupuestos. | [Probar Demo](https://demo-sencilla.digitemtech.com) |
-| **Aura — Estética & Peluquería** | Web multipágina con motor de reserva de citas y gestión de agenda. | [Probar Demo](https://demo-reservas.digitemtech.com) |
-| **La Vinya — Cuina Mediterrània** | Carta digital QR editable en tiempo real y reserva de mesas. | [Probar Demo](https://demo-restaurante.digitemtech.com) |
+| **Electricitat Soler** | Landing de servicio local con SEO y captación directa. | [Ver demo](https://demo-sencilla.digitemtech.com) |
+| **Aura — Estética & Peluquería** | Web con reserva de citas y agenda. | [Ver demo](https://demo-reservas.digitemtech.com) |
+| **La Vinya — Cuina Mediterrània** | Carta digital y reserva de mesas. | [Ver demo](https://demo-restaurante.digitemtech.com) |
 
----
+## Cómo trabajamos
 
-## 🛠️ Cómo trabajamos
+**Diagnóstico → Prioridades → Construcción → Medición y mejora**
 
-```text
-01. Diagnóstico               02. Precio Cerrado           03. Construcción              04. Entrega y Continuidad
-Nos sentamos y vemos dónde    Propuesta concreta y en tu   A medida con entorno de       Lo construido es tuyo.
-se pierde tiempo o margen.    idioma. Sin sorpresas.       pruebas antes de producción.  Nos quedamos al cuidado.
-```
-
-- **Hablamos de negocio y retorno, no de stack.**
-- **Lo que construimos es tuyo, sin permanencias ni ataduras.**
-- **Si no va a compensar, te lo decimos antes de cobrarlo.**
-
----
+Primero entendemos dónde se pierde tiempo, margen o clientes. Después decidimos qué merece la pena construir o recuperar, lo probamos con datos y dejamos una base que pueda mantenerse y evolucionar.
 
 <div align="center">
-
-**¿Hay algo en tu negocio que te esté quitando tiempo, margen o clientes?**
 
 [digitemtech.com](https://digitemtech.com) · [info@digitemtech.com](mailto:info@digitemtech.com)
 
