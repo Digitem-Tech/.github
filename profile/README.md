@@ -2,9 +2,9 @@
 
 # Digitem
 
-### Encontramos lo que frena un negocio y construimos la tecnología para quitarlo.
+### Encontramos qué frena el funcionamiento o el crecimiento digital de un negocio y lo arreglamos.
 
-Trabajamos desde problemas reales de operativa, captación y crecimiento. La web, la automatización, los datos o la IA son herramientas; el objetivo es que el negocio funcione mejor.
+Software, ecommerce, datos, automatización e infraestructura como partes de un mismo sistema. Primero entendemos el problema; después decidimos qué merece la pena construir, corregir o mejorar.
 
 [![Web Oficial](https://img.shields.io/badge/Web-digitemtech.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://digitemtech.com)
 [![Contacto](https://img.shields.io/badge/Contacto-info%40digitemtech.com-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@digitemtech.com)
@@ -15,11 +15,14 @@ Trabajamos desde problemas reales de operativa, captación y crecimiento. La web
 
 ## Qué resolvemos
 
-- **Captación y presencia digital:** webs y experiencias orientadas a conversión, SEO local y contacto directo.
-- **Reservas y atención:** sistemas que reducen llamadas repetitivas, tareas manuales y pérdidas de oportunidades.
-- **Procesos y automatización:** herramientas a medida para eliminar trabajo operativo innecesario.
-- **Datos y analítica:** medición, reconciliación y recuperación de ecosistemas digitales que han crecido desordenados.
-- **Software a medida:** cuando el cuello de botella no se resuelve con una herramienta estándar.
+- **Digitalización y construcción:** webs, ecommerce, reservas y sistemas a medida para negocios que todavía tienen procesos manuales o una base digital insuficiente.
+- **Ecommerce y conversión:** experiencia de compra, catálogo, checkout, rendimiento y puntos de fricción que afectan a ventas.
+- **Datos y medición:** analítica, tracking, calidad de datos y reconciliación entre las plataformas que utiliza el negocio.
+- **Adquisición y visibilidad:** base técnica para SEO, campañas, feeds y canales de captación que puedan medirse de forma fiable.
+- **Automatización y operaciones:** integraciones y software para eliminar trabajo repetitivo y conectar sistemas.
+- **Infraestructura y recuperación:** hosting, rendimiento, seguridad, despliegues y ecosistemas digitales que han acumulado años de parches o dependencia de proveedores.
+
+No partimos de un catálogo cerrado de tecnologías. Partimos de dónde se pierde tiempo, margen, datos o ventas.
 
 ## Demos
 
@@ -31,9 +34,9 @@ Trabajamos desde problemas reales de operativa, captación y crecimiento. La web
 
 ## Cómo trabajamos
 
-**Diagnóstico → Prioridades → Construcción → Medición y mejora**
+**Diagnóstico → Datos → Prioridades → Ejecución → Medición**
 
-Primero entendemos dónde se pierde tiempo, margen o clientes. Después decidimos qué merece la pena construir o recuperar, lo probamos con datos y dejamos una base que pueda mantenerse y evolucionar.
+A veces el resultado es construir algo nuevo. Otras veces es recuperar una tienda, corregir la medición, simplificar un proceso o rehacer una parte del sistema que ya existe.
 
 <div align="center">
 
