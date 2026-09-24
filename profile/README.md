@@ -24,13 +24,9 @@ Software, ecommerce, datos, automatización e infraestructura como partes de un 
 
 No partimos de un catálogo cerrado de tecnologías. Partimos de dónde se pierde tiempo, margen, datos o ventas.
 
-## Demos
+## Demostraciones
 
-| Demo | Caso de uso | Enlace |
-| :--- | :--- | :---: |
-| **Electricitat Soler** | Landing de servicio local con SEO y captación directa. | [Ver demo](https://demo-sencilla.digitemtech.com) |
-| **Aura — Estética & Peluquería** | Web con reserva de citas y agenda. | [Ver demo](https://demo-reservas.digitemtech.com) |
-| **La Vinya — Cuina Mediterrània** | Carta digital y reserva de mesas. | [Ver demo](https://demo-restaurante.digitemtech.com) |
+Las demos genéricas actuales son **Alba Nova Dental**, **Savia Studio** y **Cendra**. Son escenarios ficticios para mostrar interfaces y recorridos; no son clientes contratados ni acreditan integraciones productivas. Consultamos cada demo y su despliegue antes de enlazarla desde este perfil.
 
 ## Cómo trabajamos
 
