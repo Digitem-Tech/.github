@@ -10,6 +10,12 @@ Cada repositorio debe tener una responsabilidad clara. No se duplican datos de c
 - `demo-*`: demostraciones comerciales ficticias y autocontenidas.
 - repositorios de cliente: contexto, datos, código y documentación de ese cliente únicamente.
 
+## Identidad corporativa Digitem (obligatoria en materiales de la marca)
+
+Para web, propuestas, presentaciones, documentos y activos visuales de **Digitem**, utilizar la paleta **Digitem Mediterranean v1.0** definida en [la guía oficial](https://github.com/Digitem-Tech/digitem-docs/blob/master/identidad-visual/PALETA-DIGITEM-MEDITERRANEAN.md) y sus [tokens JSON](https://github.com/Digitem-Tech/digitem-docs/blob/master/identidad-visual/digitem-mediterranean.tokens.json). Consultar estos archivos antes de diseñar con Agentit/Codex; no crear paletas paralelas ni copiar tablas de HEX en otras fuentes canónicas.
+
+No aplicar automáticamente a marcas de clientes o productos con identidad propia. Los cambios corporativos requieren modificar la guía y los tokens juntos.
+
 ## Ramas y cambios
 
 Usar nombres breves y autoexplicativos:
